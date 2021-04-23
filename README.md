@@ -1,9 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, welcome to my GitHub!
 ---
 
+
+
 My name is Zach Grasso, I am currently persuing a B.S. of Science in Computer Science. I have listed my tools that I have learned along the way in the toolbox below.
 
 I am graduating in the fall and can't wait to be working with a team for a common goal.
+
+
 
 ---
 
